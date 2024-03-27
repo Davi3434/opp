@@ -38,7 +38,6 @@
 
 @media (max-width: 425px) {
     main .personagem .imagem {
-        height: auto;
     }
 
     .conteudo .Logo {
